@@ -35,13 +35,13 @@ body {
     display: inline-block;
 }
 
+.nav ul li a:hover {
+    color: rgb(0, 102, 255);
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-.nav ul li a:hover {
-    color: rgb(0, 102, 255);
 }
 
 p {
